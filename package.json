@@ -1,0 +1,23 @@
+{
+  "name": "spotless",
+  "displayName": "spotless",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.63.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Spotless",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Spotless-color-theme.json"
+      }
+    ]
+  },
+  "repository": "https://github.com/4MR74R3K/spotless-theme",
+  "publisher": "AmrTarek"
+}
